@@ -1,0 +1,9 @@
+{
+    {
+  "proxy": {
+    "/api/test": {
+      "target": "https://www.easy-mock.com/mock/5d20855a029f092a5db884ec/api/test",
+    }
+  }
+}
+}
